@@ -1,2 +1,3 @@
 # odin_recipes_project
-Odin project - Recipes
+
+Project following the odin project's tutorial
